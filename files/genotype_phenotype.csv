@@ -1,0 +1,15 @@
+genotype,sex,body_color,eye_color,blood_type
+"X,X",F,NA,NA,NA
+"X,Y",M,NA,NA,NA
+"C,C",NA,grey,NA,NA
+"C,c",NA,grey,NA,NA
+"c,c",NA,black,NA,NA
+"D,D",NA,NA,red,NA
+"D,d",NA,NA,pink,NA
+"d,d",NA,NA,white,NA
+"A,A",NA,NA,NA,A
+"A,O",NA,NA,NA,A
+"B,B",NA,NA,NA,B
+"B,O",NA,NA,NA,B
+"O,O",NA,NA,NA,O
+"A,B",NA,NA,NA,AB

@@ -1,0 +1,5 @@
+chromosome,gene,alleles,rec_freq,wild_type_f,mutant_m,wild_type_f2
+1,body_color,"D,d",0.5,"D,D","d,d","D,d"
+1,eye_color,"C,c",0.5,"C,C","c,c","C,c"
+2,sex,"X,Y",0.5,"X,Y","X,X","X,X"
+3,blood_type,"A,B,O",0.5,"A,O","B,O","O,O"
